@@ -20,5 +20,7 @@ RewriteRule ^(.*)$ $1.html
 
 <ifModule mod_headers.c>
 Header set Connection keep-alive
+Header set X-XSS-Protection "1; mode=block" 
+Header always set X-Frame-Options "SAMEORIGIN"
 </ifModule>
 
