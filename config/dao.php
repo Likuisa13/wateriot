@@ -1,6 +1,5 @@
 <?php 
 include_once 'dbconfig.php';
-include_once 'mailer.php';
 
 class Dao 
 {

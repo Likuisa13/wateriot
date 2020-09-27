@@ -97,7 +97,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
+          <h2>Product</h2>
           <!-- <p>The products we have provided</p> -->
         </div>
 
