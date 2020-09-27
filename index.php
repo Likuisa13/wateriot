@@ -119,7 +119,7 @@
             ?>
             <div class="col-lg-4 col-md-6 portfolio-item <?= $value['kategori'] ?>">
               <div class="portfolio-wrap">
-                <img src="assets/img/produk/<?= $value['foto'] ?>" class="img-fluid" alt="">
+                <img src="assets/img/produk/<?= $value['foto'] ?>" width="100%" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?= $value['nama'] ?></h4>
                 </div>

@@ -21,7 +21,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="index#hero">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="index#about">About</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="index#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="index#portfolio">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index#portfolio">Product</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="index#contact">Contact Us</a></li>
             </ul>
           </div>
